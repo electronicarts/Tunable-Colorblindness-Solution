@@ -74,4 +74,4 @@ The image below can be used as a reference: the top row is original color, secon
 
 
 ## License 
-This project is licensed under the Apache 2.0, see [LICENSE](https://github.com/electronicarts/Tunable-Colorblindness-Solution/blob/main/LICENSE) and NOTICE for details. 
+This project is licensed under the Apache 2.0, see [LICENSE](https://github.com/electronicarts/Tunable-Colorblindness-Solution/blob/main/LICENSE) and [NOTICE](https://github.com/electronicarts/Tunable-Colorblindness-Solution/blob/main/NOTICE.txt) for details. 
