@@ -1,5 +1,5 @@
 # Tunable Colorblindness Solution
-A tunable colorblindness solution that improves color-shifting and luminosity to address common colorblind issues relating to color differentiation and visibility in colorblind accessibility settings.
+A tunable colorblindness solution that improves color-shifting and luminosity to address common colorblind issues relating to color differentiation and visibility in colorblind accessibility settings. Authored by Karen Stevens @ Electronic Arts Inc. 
 
 ## Overview 
 A post process implementation of the algorithm/code is recommended, as it:
