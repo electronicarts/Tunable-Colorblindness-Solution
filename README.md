@@ -1,5 +1,5 @@
 # Tunable Colorblindness Solution
-The algorithm and code of this project improve luminosity in colorblind accessibility settings, enabling better color visibility and differentiation when colorblind accessibility settings are enabled.
+A tunable colorblindness solution that improves color-shifting and luminosity to address common colorblind issues relating to color differentiation and visibility in colorblind accessibility settings.
 
 ## Overview 
 A post process implementation of the algorithm/code is recommended, as it:
@@ -36,7 +36,7 @@ The code includes brightness and contrast support, which are optional to use:
 * Suggested contrast factors: -0.25, -0.12, 0, 0.2, 0.4.
 
 ## Tuning 
-The algorithm and code should work well for most games as-is, but since color space is being reduced, there is a chance that the algorithm will cause color overlap, so if you do notice an issue, here's where in the algorithm and code that you can shift the colors.
+The algorithm and code should work well for most games as-is, but since color space is being reduced, there is a chance that the algorithm will cause color overlap. So if you do notice an issue, here's where in the algorithm and code that you can shift the colors.
 
 >// CALL THIS METHOD TO PROCESS COLOR
 >
